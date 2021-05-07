@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 **Languages and tools:**
 
-<code><img height="20" src="![python](https://user-images.githubusercontent.com/58686770/117436712-93a01e00-af2f-11eb-9de9-a2cb7e440055.png)"/code>
+<code><img height="20" src="![python](https://user-images.githubusercontent.com/58686770/117436712-93a01e00-af2f-11eb-9de9-a2cb7e440055.png)"></code>
 <code><img height="20" src=""></code>
 <code><img height="20" src=""></code>
 <code><img height="20" src=""></code>
