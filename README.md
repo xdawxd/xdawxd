@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 <code><img height="20" width="20" src="https://user-images.githubusercontent.com/58686770/117436962-dc57d700-af2f-11eb-977a-7ae1a9e90bde.png"></code>
 <code><img height="20" width="20" src="https://user-images.githubusercontent.com/58686770/117437138-1a54fb00-af30-11eb-9617-48b28eb70aa5.jpg"></code>
-<code><img height="20" width="20" src="https://user-images.githubusercontent.com/58686770/117437822-08c02300-af31-11eb-9f1c-6b175baf24d9.png"></code>
+<code><img height="20" width="20" src="https://user-images.githubusercontent.com/58686770/117438136-70766e00-af31-11eb-81da-e2a5f5933fd7.png"></code>
 <code><img height="20" width="20" src=""></code>
 
 ![Languages I'm using](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=xdawxd&layout=compact&theme=material-palenight)
