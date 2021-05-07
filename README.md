@@ -2,8 +2,6 @@
 
 Hi, I'm Dawid Schwinge, a passionate self-taught Back-End web developer from Poland.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on [blog-application](https://github.com/xdawxd/blog)
 - 🌱 I’m currently learning Django, JavaScript and React
 
