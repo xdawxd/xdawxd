@@ -8,7 +8,7 @@ Hi, I'm Dawid Schwinge, a passionate self-taught Back-End web developer from Pol
 **Languages and tools:**
 <!-- https://user-images.githubusercontent.com/58686770/117437194-2ccf3480-af30-11eb-83aa-27ce54bcdf0b.png -->
 
-<code><img height="20" width="20" src="https://user-images.githubusercontent.com/58686770/117436962-dc57d700-af2f-11eb-977a-7ae1a9e90bde.png"></code> <!-- Python -->
+<img height="20" width="20" src="https://user-images.githubusercontent.com/58686770/117436962-dc57d700-af2f-11eb-977a-7ae1a9e90bde.png"> <!-- Python -->
 <code><img height="20" width="20" src="https://user-images.githubusercontent.com/58686770/117437138-1a54fb00-af30-11eb-9617-48b28eb70aa5.jpg"></code> <!-- Django -->
 <code><img height="20" width="20" src="https://user-images.githubusercontent.com/58686770/117439447-22626a00-af33-11eb-8336-42e9489ecc52.png"></code> <!-- JavaScript -->
 <code><img height="20" width="20" src="https://user-images.githubusercontent.com/58686770/117439649-62c1e800-af33-11eb-85fc-cf94ea5fb959.png"></code> <!-- React -->
