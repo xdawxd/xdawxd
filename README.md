@@ -5,7 +5,6 @@ I'm a student and passionate self-taught Back-End web developer from Poland.
 
 - 🔭 I’m currently working on [blog-application](https://github.com/xdawxd/blog)
 - 🌱 I’m currently learning Django, JavaScript and React
-
 <br>
 
 ## Tools:
@@ -23,5 +22,6 @@ I'm a student and passionate self-taught Back-End web developer from Poland.
 <img align="left" alt="React" width="42px" src="https://user-images.githubusercontent.com/58686770/117439649-62c1e800-af33-11eb-85fc-cf94ea5fb959.png">
 <br><br>
 
+<p></p>
 ![Languages I'm using](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=xdawxd&layout=compact&theme=material-palenight)
 <br>
