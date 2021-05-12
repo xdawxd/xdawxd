@@ -7,9 +7,8 @@ Hi, I'm Dawid Schwinge, a passionate self-taught Back-End web developer from Pol
 
 ## Tools:
 
-<img align="left" alt="VisualStudio" src="https://user-images.githubusercontent.com/58686770/118040368-ba1bea00-b371-11eb-9d8b-14afc4734fdf.png">
+<img align="left" alt="VisualStudio" width="42px" src="https://user-images.githubusercontent.com/58686770/118040368-ba1bea00-b371-11eb-9d8b-14afc4734fdf.png">
 <img align="left" alt="VisualStudioCode" width="42px" src="ttps://user-images.githubusercontent.com/58686770/118040413-c30cbb80-b371-11eb-9755-561b6be4a0ce.png">
-<img align="left" alt="Git" width="42px" src="https://user-images.githubusercontent.com/58686770/118040622-0ff09200-b372-11eb-9ada-74ebc19bccb5.png">
 
 ## Languages & Frameworks:
 <!-- https://user-images.githubusercontent.com/58686770/117437194-2ccf3480-af30-11eb-83aa-27ce54bcdf0b.png -->
