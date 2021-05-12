@@ -21,7 +21,7 @@ I'm a student and passionate self-taught Back-End web developer from Poland.
 <img align="left" alt="Django" width="42px" src="https://user-images.githubusercontent.com/58686770/117437138-1a54fb00-af30-11eb-9617-48b28eb70aa5.jpg">
 <img align="left" alt="JavaScript" width="42px" src="https://user-images.githubusercontent.com/58686770/117439447-22626a00-af33-11eb-8336-42e9489ecc52.png">
 <img align="left" alt="React" width="42px" src="https://user-images.githubusercontent.com/58686770/117439649-62c1e800-af33-11eb-85fc-cf94ea5fb959.png">
-<br>
+<br><br>
 
 ![Languages I'm using](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=xdawxd&layout=compact&theme=material-palenight)
 <br>
