@@ -1,4 +1,4 @@
-### Hi there, I'm Dawid 👋
+### <h1<Hi there, I'm Dawid <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <br>
 
 I'm a student and passionate self-taught Back-End web developer from Poland.
