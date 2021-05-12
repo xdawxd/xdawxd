@@ -25,6 +25,4 @@
 
 <br><br>
 
-## Languages I'm using
-
 ![Languages I'm using](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=xdawxd&layout=compact&theme=material-palenight)
