@@ -2,7 +2,7 @@
 
 <br>
 
-### I'm a student and passionate self-taught Back-End web developer from Poland.
+## I'm a student and passionate self-taught Back-End web developer from Poland.
 - 🔭 I’m currently working on [blog-application](https://github.com/xdawxd/blog)
 - 🌱 I’m currently learning Django, JavaScript and React
 
