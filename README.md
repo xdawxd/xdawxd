@@ -13,7 +13,7 @@
 <img align="left" alt="VisualStudio" width="32px" src="https://user-images.githubusercontent.com/58686770/118040368-ba1bea00-b371-11eb-9d8b-14afc4734fdf.png">
 <img align="left" alt="VisualStudioCode" width="32px" src="https://user-images.githubusercontent.com/58686770/118040413-c30cbb80-b371-11eb-9755-561b6be4a0ce.png">
 
-<br>
+<br><br>
 
 ## Languages & Frameworks:
 
