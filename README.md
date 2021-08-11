@@ -1,7 +1,7 @@
 ### <h1>Hi there, I'm Dawid <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 ## I'm a student and passionate self-taught Python developer from Poland.
-- 🔭 I’m currently working on [pathfinding-visualisation](https://github.com/xdawxd/Pathfinding_Visualisation) and [blog-application](https://github.com/xdawxd/blog)
+- 🔭 I’m currently working on [pathfinding-visualisation](https://github.com/xdawxd/Pathfinding_Visualisation) and [book-management-system](https://github.com/xdawxd/Book-Management-System)
 - 🌱 I’m currently learning Django, JavaScript and React
 
 <br>
