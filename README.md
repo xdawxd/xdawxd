@@ -9,13 +9,14 @@
 
 <img align="left" alt="VisualStudio" width="32px" src="https://user-images.githubusercontent.com/58686770/118040368-ba1bea00-b371-11eb-9d8b-14afc4734fdf.png">
 <img align="left" alt="VisualStudioCode" width="32px" src="https://user-images.githubusercontent.com/58686770/118040413-c30cbb80-b371-11eb-9755-561b6be4a0ce.png">
-<img align="left" alt="Pycharm" width="32px" src="https://user-images.githubusercontent.com/58686770/216851706-042dacd7-fed6-4543-b821-0d47421be3f0.png">
+<img align="left" alt="Pycharm" width="32px" src="https://user-images.githubusercontent.com/58686770/216851985-1850b23a-e814-40f8-84c2-92ed57598608.png">
 <img align="left" alt="Jira" width="32px" src="https://user-images.githubusercontent.com/58686770/216851847-89801c61-b89b-4afb-84de-7366ed1b0114.png">
 <img align="left" alt="Confluence" width="32px" src="https://user-images.githubusercontent.com/58686770/216851819-f74c5e0d-e49b-4871-91b9-676fb40c3c75.png">
 <img align="left" alt="Sentry" width="32px" src="https://user-images.githubusercontent.com/58686770/216851864-6f7ba80e-bb98-4624-9bad-dbc102322b14.png">
-<img align="left" alt="Sentry" width="32px" src="https://user-images.githubusercontent.com/58686770/216851896-3e9adb3e-3879-4c7d-8f03-6edafef2b847.png">
-<img align="left" alt="Sentry" width="32px" src="https://user-images.githubusercontent.com/58686770/216851906-2f5d4722-e779-4eae-9ef2-db7ecd6d53dc.png">
-<img align="left" alt="Sentry" width="32px" src="https://user-images.githubusercontent.com/58686770/216851920-42c3e7ae-75d3-44f2-89f1-a460e0f09e5c.png">
+<img align="left" alt="Grafana" width="32px" src="https://user-images.githubusercontent.com/58686770/216852008-4c53772d-3b44-429b-b40e-dd24b60ab0bf.png">
+<img align="left" alt="DataDog" width="32px" src="https://user-images.githubusercontent.com/58686770/216851906-2f5d4722-e779-4eae-9ef2-db7ecd6d53dc.png">
+<img align="left" alt="Postman" width="32px" src="https://user-images.githubusercontent.com/58686770/216851920-42c3e7ae-75d3-44f2-89f1-a460e0f09e5c.png">
+
 
 <br><br>
 
