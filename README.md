@@ -13,12 +13,9 @@
 <img align="left" alt="Jira" width="32px" src="https://user-images.githubusercontent.com/58686770/216851847-89801c61-b89b-4afb-84de-7366ed1b0114.png">
 <img align="left" alt="Confluence" width="32px" src="https://user-images.githubusercontent.com/58686770/216851819-f74c5e0d-e49b-4871-91b9-676fb40c3c75.png">
 <img align="left" alt="Sentry" width="32px" src="https://user-images.githubusercontent.com/58686770/216851864-6f7ba80e-bb98-4624-9bad-dbc102322b14.png">
-<img align="left" alt="Grafana" width="32px" src="https://user-images.githubusercontent.com/58686770/216852414-49e69716-a49d-4f01-9609-c9ca3e0931af.png">
+<img align="left" alt="Grafana" width="32px" src="https://user-images.githubusercontent.com/58686770/216852642-0ae4c813-cd26-4cce-9eb1-5556e5d5cb2f.png">
 <img align="left" alt="DataDog" width="32px" src="https://user-images.githubusercontent.com/58686770/216851906-2f5d4722-e779-4eae-9ef2-db7ecd6d53dc.png">
 <img align="left" alt="Postman" width="32px" src="https://user-images.githubusercontent.com/58686770/216851920-42c3e7ae-75d3-44f2-89f1-a460e0f09e5c.png">
-
-![image]()
-
 
 <br><br>
 
