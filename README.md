@@ -45,3 +45,11 @@ I'm a Python & DevOps Engineer
 <p align="center"><img class="img" src="https://streak-stats.demolab.com?user=xdawxd&theme=highcontrast&date_format=j%2Fn%5B%2FY%5D" /></p>
 <p align="center"><img class="img" src="https://github-readme-stats.vercel.app/api?username=xdawxd&theme=great-gatsby&show_icons=true" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=xdawxd&theme=great-gatsby&show_icons=true" /></p>
+
+## Pinned Repos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdawxd&theme=great-gatsby&repo=Pathfinding_Visualization)](https://github.com/xdawxd/Pathfinding_Visualization)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xdawxd&theme=great-gatsby&repo=Sun-Eruption-Detection)](https://github.com/xdawxd/Sun-Eruption-Detection)
+
+
+
