@@ -41,9 +41,8 @@ I'm a Python & DevOps Engineer
 
 ## 📈 GitHub Stats 
 
-<div style="display: flex; flex-direction: row;">
- <img class="img" src="https://streak-stats.demolab.com?user=xdawxd&theme=highcontrast&date_format=j%2Fn%5B%2FY%5D" />
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=xdawxd&theme=great-gatsby&show_icons=true" />
+<div align="center">  <!-- style="display: flex; flex-direction: row;" -->
+  <img class="img" src="https://streak-stats.demolab.com?user=xdawxd&theme=highcontrast&date_format=j%2Fn%5B%2FY%5D" />
+  <img class="img" src="https://github-readme-stats.vercel.app/api?username=xdawxd&theme=great-gatsby&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xdawxd&theme=great-gatsby&show_icons=true" />
 </div>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=xdawxd&theme=great-gatsby&show_icons=true" /></p>
