@@ -2,21 +2,20 @@
   <img src="https://placehold.co/1000x200/png" />
 </p>
 
-<h3 align="center">
-Hi, I'm Dawid </a> 👋
-</h3>
-
 <h2 align="center">
-I'm a Python & DevOps Engineer
-</h2> 
+Hi, I'm Dawid </a> 👋
+</h2>
 
-## 🔭 I'm currently
+<h3 align="center">
+I'm a Python & DevOps Engineer
+</h3> 
+
+## 📓About Me
 
 - Preparing for Azure certification
 - Contributing to [kag-base](https://github.com/transhumandesign/kag-base) (a game that holds sentimental value for me ❤)
 - Learning C++ & Angelscript
-- Learning Electronics
-- Learning Pixelart in Asperite
+- Learning Pixel art in Asperite
 
 ## 💼 Technical Skills
 
@@ -31,8 +30,9 @@ I'm a Python & DevOps Engineer
 
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/yushi1007)
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://streak-stats.demolab.com?user=xdawxd&theme=highcontrast&date_format=j%2Fn%5B%2FY%5D" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=xdawxd&theme=great-gatsby&show_icons=true" />
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/yushi1007)
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.yushi1007)](https://www.yushi.dev/)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=xdawxd&theme=great-gatsby&show_icons=true" /></p>
