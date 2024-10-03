@@ -12,8 +12,8 @@ I'm a Python & DevOps Engineer
 
 ## 📓About Me
 
-- Preparing for Azure certification
-- Contributing to [kag-base](https://github.com/transhumandesign/kag-base) (a game that holds sentimental value for me ❤)
+- Preparing for Azure and GHA certification
+- Contributing to [kag-base](https://github.com/transhumandesign/kag-base)
 - Learning C++ & Angelscript
 - Learning Pixel art in Asperite
 
